@@ -1,12 +1,10 @@
-# Exno.6-Prompt-Engg
+# Exno.6-Development of Python Code Compatible with Multiple AI Tools
 ## Name: SINDHUJA P
 ## Register no:212222220047
 # Aim: 
 Development of Python Code Compatible with Multiple AI Tools
-
 # Algorithm: 
 Write and implement Python code that integrates with multiple AI tools to automate the task of interacting with APIs, comparing outputs, and generating actionable insights.
-
 # Procedure:
     Step 1: Define the Objective
     Step 2: Set Up the Environment
@@ -17,7 +15,6 @@ Write and implement Python code that integrates with multiple AI tools to automa
     Step 7: Query Each Tool and Collect Responses
     Step 8: Compare Outputs
     Step 9: Run and Interpret Results
-
 # Code
 ```
 import requests
