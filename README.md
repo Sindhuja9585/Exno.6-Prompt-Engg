@@ -15,6 +15,7 @@ Write and implement Python code that integrates with multiple AI tools to automa
     Step 7: Query Each Tool and Collect Responses
     Step 8: Compare Outputs
     Step 9: Run and Interpret Results
+    
 # Code
 ```
 import requests
