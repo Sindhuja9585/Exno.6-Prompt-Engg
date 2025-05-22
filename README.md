@@ -1,5 +1,5 @@
 # Exno.6-Prompt-Engg
-# Date:
+# Name: SINDHUJA P
 # Register no:212222220047
 # Aim: 
 Development of Python Code Compatible with Multiple AI Tools
